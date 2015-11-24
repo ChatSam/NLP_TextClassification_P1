@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP_TextClassification_P1", "NLP_TextClassification_P1\NLP_TextClassification_P1.csproj", "{4503561E-277D-4711-8A8C-FCA4659566E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4503561E-277D-4711-8A8C-FCA4659566E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4503561E-277D-4711-8A8C-FCA4659566E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4503561E-277D-4711-8A8C-FCA4659566E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4503561E-277D-4711-8A8C-FCA4659566E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
